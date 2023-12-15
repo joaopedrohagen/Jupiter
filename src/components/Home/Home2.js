@@ -15,40 +15,40 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              DEIXE-ME <span className="purple"> APRESENTAR-ME </span>
             </h1>
             <p className="home-about-body">
-              I have a passion for cybersecurity and study relentlessly
-              to become one of the best. 👩‍🎓
+              Eu tenho paixão pela área de cybersecurity e estudo incansavelmente
+              para me tornar um dos melhores. 👩‍🎓
               <br />
-              <br />I study programming every day with a focus on languages like
+              <br />Eu estudo programação todos os dias com foco em linguagens como
               <i>
-                <b className="purple"> Python, Ruby,Go Lang, and NodeJS. </b>
+                <b className="purple"> Python, Ruby,Go Lang, e NodeJS. </b>
               </i>
               <br />
               <br />
-              I also have substantial knowledge in databases, especially
+              Também tenho conhecimento substancial em bancos de dados relacionais, especialmente em
               <i>
-                <b className="purple"> Postgresql</b> as well as in containers like {" "}
-                <b className="purple"> Kubernetes</b> and
+                <b className="purple"> Postgresql</b>, e tamém em orquestração de containers com {" "}
+                <b className="purple"> Kubernetes</b> e
                 <b className="purple"> Docker.</b>
               </i>
               <br />
               <br />
-              I possess extensive expertise in server administration, both in
+              Possuo ampla experiência em administração de servidores, tanto em ambientes
               <b className="purple">
                 <i>Windows &nbsp;</i>
-              </b>and&nbsp;
+              </b>como em&nbsp;
               <b className="purple">
                 <i>Linux</i>
-              </b> environments.
+              </b>.
               <i>
-                &nbsp;Currently, I work as a
+                &nbsp;Recentemente, trabalhava como
                 <b className="purple"> &nbsp;Senior Infrastructure Analyst {" "}</b>
-                and aim to transition into the
+                e pretendo migrar para a área de
               </i>
               <i>
-                <b className="purple"> programming </b> field.
+                <b className="purple"> programação </b>.
               </i>
             </p>
           </Col>
@@ -60,9 +60,9 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
+            <h1>ME ENCONTRE EM</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              Sinta-se à vontade para se <span className="purple">conectar </span>comigo!
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">

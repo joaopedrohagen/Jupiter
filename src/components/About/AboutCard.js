@@ -8,24 +8,24 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hey guys! I am <span className="purple">João Pedro Hagen </span>
-            from <span className="purple"> Juiz de Fora, Minas Gerais - Brazil.</span>
-            <br /> I'm studying Software Engineering, and I'm entering my second year of studies.
+            Oi Pessoal! Eu sou o <span className="purple">João Pedro Hagen </span>
+            de <span className="purple"> Juiz de Fora, Minas Gerais - Brasil.</span>
+            <br /> Estou cursando <span className="purple"></span>Análise e Desenvolvimento de Sistemas e estou entrando no segundo ano de estudos.
             <br />
-            Additionally, I currently work as a Senior Infrastructure Analyst at Configr.
+            Além disso, trabalhei como Analista de Infraestrutura Sênior na Configr.
             <br />
             <br />
-            Apart from programming, some other things I love to do are:
+            Alem de programar e estudar, outras coisas que eu amo fazer são:
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing video games
+              <ImPointRight /> Jogar videogames;
             </li>
             <li className="about-activity">
-              <ImPointRight /> Watching science fiction series and movies
+              <ImPointRight /> Assistir séries e filmes de ficção científica;
             </li>
             <li className="about-activity">
-              <ImPointRight /> Playing the guitar and singing
+              <ImPointRight /> Tocar guitarra, violão e cantar.
             </li>
           </ul>
         </blockquote>
