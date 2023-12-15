@@ -12,6 +12,9 @@
 
 My personal portfolio at hagen.dev.br showcasing some of my projects on GitHub, as well as my resume and technical skills.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ff6f48a3-14df-4d0f-81f6-7bec213ca284/deploy-status)](https://app.netlify.com/sites/ephemeral-dolphin-1dc0b4/deploys)
+![npm](https://img.shields.io/badge/npm-8.11.0-green)
+
 ## Built with
 
 * React.js
